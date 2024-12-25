@@ -1,0 +1,621 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Restaurant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restaurant.d5ch42m3ci.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\01.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\02.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\03.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\04.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\chef.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\chef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\gallery-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\gallery-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im10.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\im9.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\im9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\jquery.1.11.1.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jquery.1.11.1.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\AdminAssets\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\AdminAssets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\176a6323-85f7-4779-a1cd-44c157f9fda3_im4.jpg",
+      "PackagePath": "staticwebassets\\images\\176a6323-85f7-4779-a1cd-44c157f9fda3_im4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\2a4320d8-2bdf-466a-85c9-16f43f137ed9.jpg",
+      "PackagePath": "staticwebassets\\images\\2a4320d8-2bdf-466a-85c9-16f43f137ed9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\36fedac0-5e25-49d8-90a8-cac00e952e72_userF.jpg",
+      "PackagePath": "staticwebassets\\images\\36fedac0-5e25-49d8-90a8-cac00e952e72_userF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\5eae55bd-49aa-4917-b2e2-f45f47e79645.jpg",
+      "PackagePath": "staticwebassets\\images\\5eae55bd-49aa-4917-b2e2-f45f47e79645.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\708868bb-e779-4256-b411-37fc8ac06754.jpg",
+      "PackagePath": "staticwebassets\\images\\708868bb-e779-4256-b411-37fc8ac06754.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\b548e708-e57f-4b6a-99c2-c22561336bf9.jpg",
+      "PackagePath": "staticwebassets\\images\\b548e708-e57f-4b6a-99c2-c22561336bf9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\b88d45df-0712-4cdb-bfef-da1dac6f50f6_userF.jpg",
+      "PackagePath": "staticwebassets\\images\\b88d45df-0712-4cdb-bfef-da1dac6f50f6_userF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\c7d08f58-0ead-4451-838c-d6ee7588b2e7.jpg",
+      "PackagePath": "staticwebassets\\images\\c7d08f58-0ead-4451-838c-d6ee7588b2e7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\im1.jpg",
+      "PackagePath": "staticwebassets\\images\\im1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\im2.jpg",
+      "PackagePath": "staticwebassets\\images\\im2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\im3.jpg",
+      "PackagePath": "staticwebassets\\images\\im3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\im4.jpg",
+      "PackagePath": "staticwebassets\\images\\im4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\im5.jpg",
+      "PackagePath": "staticwebassets\\images\\im5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\im6.jpg",
+      "PackagePath": "staticwebassets\\images\\im6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\userF.jpg",
+      "PackagePath": "staticwebassets\\images\\userF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\images\\userM.jpg",
+      "PackagePath": "staticwebassets\\images\\userM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Sundos\\Desktop\\MVC Resturant\\Restaurant\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Restaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Restaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Restaurant.props",
+      "PackagePath": "build\\Restaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Restaurant.props",
+      "PackagePath": "buildTransitive\\Restaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
