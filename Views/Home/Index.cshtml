@@ -1,4 +1,5 @@
-﻿@{
+﻿@model IEnumerable<Categoory>
+@{
     Layout = "_Resto";
 }
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -18,6 +19,8 @@
                     <li><a href="#about" class="page-scroll">About</a></li>
                     <li><a href="#restaurant-menu" class="page-scroll">Menu</a></li>
                     <li><a href="#contact" class="page-scroll">Contact</a></li>
+                    <li><a href="@Url.Action("Register", "Auth")" class="page-scroll">Register</a></li>
+                    <li><a href="@Url.Action("Index", "Admin")" class="page-scroll">Admin Dashboard</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -38,57 +41,27 @@
             </div>
         </div>
     </header>
-    <div id="sections" class="text-center">
-        <div class="container">
-            <div class="section-title">
-                <h2>Manage Data</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-6">
-                    <a href="@Url.Action("Index", "Customers")">
-                        <div class="service-box">
-                            <h3>Customer</h3>
-                            <p>Manage customer records.</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-6">
-                    <a href="@Url.Action("Index", "Categoories")">
-                        <div class="service-box">
-                            <h3>Category</h3>
-                            <p>Manage product categories.</p>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- Features Section -->
     <div id="features" class="text-center">
         <div class="container">
             <div class="section-title">
                 <h2>Our Specials</h2>
             </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="features-item">
-                        <h3>Egg & Avocado Salad</h3>
-                        <img src="~/AdminAssets/img/im1.jpg" class="img-responsive" style="height: 600px; width:100%; object-fit: cover;" alt="Dish 1">
+                @foreach (var item in Model)
+                {
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="single_blog_item">
+                            <div class="single_blog_img">
+                                <img width="330" height="330" src="@Url.Content("~/images/"+item.ImagePath)" alt="">
+                            </div>
+                            <div class="single_blog_text">
+                                <h3>@item.CategoryName</h3>
+                                <p> Was brean shed moveth day yielding tree yielding day were female and </p>
+                                <a asp-action="GetProductByCategory" asp-route-id="@item.Id" class="btn_3"> View Products </a>
+                            </div>
                         </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="features-item">
-                        <h3>Spaghetti</h3>
-                        <img src="~/AdminAssets/img/im2.jpg" class="img-responsive" style="height: 600px; width:100%; object-fit: cover;" alt="Dish 2">
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="features-item">
-                        <h3>Burger</h3>
-                        <img src="~/AdminAssets/img/im4.jpg" class="img-responsive" style="height: 600px; width:100%; object-fit: cover;" alt="Dish 3">
-                    </div>
-                </div>
-            </div>
+                }
         </div>
     </div>
     <!-- About Section -->
@@ -223,7 +196,7 @@
             </div>
         </div>
     </div>
-    
+
 
     <!-- Team Section -->
     <div id="team">
@@ -235,7 +208,7 @@
                             <h2>Meet Our Chef</h2>
                         </div>
                         <p>Our Secret Component</p>
-                        </div>
+                    </div>
                 </div>
                 <div class="col-md-6">
                     <div class="team-img"><img src="AdminAssets/img/chef.jpg" alt="..."></div>
@@ -298,6 +271,6 @@
             </div>
         </div>
     </div>
-    
+
 
 </body>

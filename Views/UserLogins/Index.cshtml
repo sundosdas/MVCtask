@@ -2,7 +2,9 @@
 
 @{
     ViewData["Title"] = "Index";
+    Layout = "_DashBoard";
 }
+
 
 <h1>Index</h1>
 
@@ -28,7 +30,7 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+      @foreach (var item in Model) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.UserName)
@@ -48,6 +50,6 @@
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
-}
+      }
     </tbody>
 </table>

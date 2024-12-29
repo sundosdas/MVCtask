@@ -1,0 +1,70 @@
+﻿   @model Customer
+@{
+    ViewData["Title"] = "Sign UP";
+
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="@Url.Content("~/Login&RegisterAssets/fonts/material-icon/css/material-design-iconic-font.min.css")" />
+    <!-- Main css -->
+    <link rel="stylesheet" href="@Url.Content("~/Login&RegisterAssets/css/style.css")" />
+</head>
+<body>
+<section class="signup">
+    <div class="container">
+        <div class="signup-content">
+            <div class="signup-form">
+                <h2 class="form-title">Sign up</h2>
+                <form asp-action="Register" class="register-form" id="register-form" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Fname"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input asp-for="Fname" placeholder="Your First Name" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Lname"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input asp-for="Lname" placeholder="Your Last Name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="userName"><i class="zmdi zmdi-email"></i></label>
+                        <input type="text" name="userName" id="userName" placeholder="Username" />
+                    </div>
+                    <div class="form-group">
+                        <label for="password"><i class="zmdi zmdi-lock"></i></label>
+                        <input type="password" name="password" id="password" placeholder="Password" />
+                    </div> 
+                    <div class="form-group">
+                        <label asp-for="ImageFile"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input asp-for="ImageFile"/>
+                    </div>
+                    <div class="form-group">
+                        <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
+                        <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
+                    </div>
+                    <div class="form-group form-button">
+                        <input type="submit" name="signup" id="signup" class="form-submit" value="Sign Up" />
+                    </div>
+                </form>
+            </div>
+            <div class="signup-image">
+                    <figure>
+                        <img src="@Url.Content("~/Login&RegisterAssets/images/signup-image.jpg")"
+                             asp-append-version="true" style="border-radius:20%;"
+                             width="100" height="100" />
+                    </figure>
+                    <a href="@Url.Action("Login", "Auth")" class="signup-image-link">I am already member</a>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

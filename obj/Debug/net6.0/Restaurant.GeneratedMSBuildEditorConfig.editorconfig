@@ -20,6 +20,18 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Categoories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvb3JpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Home/GetProductByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRQcm9kdWN0QnlDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Home/Index.cshtml]
@@ -167,6 +183,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Shared/_DashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-30gw0djwe7
 
 [C:/Users/Sundos/Desktop/MVC Resturant/Restaurant/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

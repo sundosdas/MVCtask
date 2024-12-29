@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.5",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.18",
           "ODP.NetCore": "2.0.12",
-          "Oracle.EntityFrameworkCore": "7.21.9"
+          "Oracle.EntityFrameworkCore": "7.21.9",
+          "bootstrap": "5.3.1"
         },
         "runtime": {
           "Restaurant.dll": {}
@@ -54,6 +55,7 @@
           }
         }
       },
+      "bootstrap/5.3.1": {},
       "Humanizer/2.14.1": {
         "dependencies": {
           "Humanizer.Core.af": "2.14.1",
@@ -2897,6 +2899,13 @@
       "sha512": "sha512-EycyMsb6rD2PK9P0SyibFfEhvWWttdrYhyPF4f41uzdB/44yQlV+2Wehxyg489Rj6gbPvSPgbKq0xsHJBhipZA==",
       "path": "azure.identity/1.6.0",
       "hashPath": "azure.identity.1.6.0.nupkg.sha512"
+    },
+    "bootstrap/5.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-062nL2TBj4wiPNfZQpkLhQKl2gVPD8MQfbZFfe3YzRZ7h+it9E7doSpmWwDd4RvAH9tsgi4axs8qDYeCiGO8gA==",
+      "path": "bootstrap/5.3.1",
+      "hashPath": "bootstrap.5.3.1.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",
